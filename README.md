@@ -6,6 +6,9 @@ Este é um projeto de **jogo de batalha de Pokémons** desenvolvido em **Java**,
 
 Inicialmente pensado para rodar no **console**, o projeto evoluiu e agora também conta com uma **interface gráfica**.
 
+> Vale ressaltar que este jogo **não possui animações**, sendo todos os movimentos **estáticos**.  
+> Opiniões e sugestões de melhorias são muito bem-vindas, para que eu possa dar continuidade e **melhorar o jogo cada vez mais**
+
 ## Como funciona
 
 - Dois Pokémons são selecionados **aleatoriamente**.  
