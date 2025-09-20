@@ -9,6 +9,16 @@ Inicialmente pensado para rodar no **console**, o projeto evoluiu e agora també
 > Vale ressaltar que este jogo **não possui animações**, sendo todos os movimentos **estáticos**.  
 > Opiniões e sugestões de melhorias são muito bem-vindas, para que eu possa dar continuidade e **melhorar o jogo cada vez mais**
 
+## Tecnologias e Ferramentas Utilizadas
+
+- **Java**  
+  - Orientação a Objetos: **classes**, **interfaces**, **herança**, **polimorfismo**, **encapsulamento**  
+  - Estruturas de controle e lógica de programação
+
+- **Interface Gráfica em Java (Swing)**  
+  - Utilização de **JFrame** para criar a janela principal do jogo  
+  - Elementos visuais como **botões**, **textos**, **posição dos Pokémons** e outras telas do jogo
+
 ## Como funciona
 
 - Dois Pokémons são selecionados **aleatoriamente**.  
@@ -66,8 +76,8 @@ No menu do jogo, a **Pokédex** funciona como um **monitor de informações** so
 
 - Para **salvar o progresso**, basta clicar no **botão "Download"** na tela inicial.  
 - Depois de salvar o jogo, você pode **fechar o jogo** a qualquer momento.  
-- Ao executar o jogo novamente, clique em **"Start"** para **carregar o jogo salvo** e continuar de onde parou.  
-
+- Ao executar o jogo novamente, clique em **"Start"** para **carregar o jogo salvo** e continuar de onde parou.
+  
 ---
 
 Este é o meu projeto! Espero que tenham gostado 🎮✨
