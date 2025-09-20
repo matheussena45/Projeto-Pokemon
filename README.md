@@ -1,4 +1,4 @@
-# Pokémon Battle Game
+# PokéTads
 
 **Aviso: Nintendo, por favor, não me processe, é apenas um projeto da faculdade 😅**
 
