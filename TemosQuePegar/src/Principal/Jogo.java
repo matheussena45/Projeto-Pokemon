@@ -1,4 +1,4 @@
-package Principal;
+gipackage Principal;
 
 import Principal.Batalha;
 import Principal.Pokemon;
