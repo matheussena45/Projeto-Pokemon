@@ -18,6 +18,13 @@ Inicialmente pensado para rodar no **console**, o projeto evoluiu e agora també
 - **Interface Gráfica em Java (Swing)**  
   - Utilização de **JFrame** para criar a janela principal do jogo  
   - Elementos visuais como **botões**, **textos**, **posição dos Pokémons** e outras telas do jogo
+ 
+## Observação sobre as Imagens
+
+Para rodar o projeto corretamente **localmente**, todas as imagens devem estar **nos caminhos corretos** utilizados pelo projeto.  
+
+- Eu disponibilizei as imagens dentro de uma pasta, mas os caminhos que usei são **do meu computador**.  
+- Portanto, se você quiser executar o projeto, **garanta que as imagens estejam no mesmo caminho relativo** que o projeto espera, caso contrário elas **não aparecerão**.
 
 ## Como funciona
 
